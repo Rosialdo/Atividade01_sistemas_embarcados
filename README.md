@@ -1,2 +1,3 @@
-# Atividade01_sistemas_embarcados
-Repositório criado com o intuito de anexar a codificação em C da máquina de chá e café proposto em sala.
+# Atividade de Sistemas Embarcados
+
+Repositório criado com o intuito de anexar a codificação em C da máquina de chá e café proposta em sala.
